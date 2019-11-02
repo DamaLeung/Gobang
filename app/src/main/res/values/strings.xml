@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gobang</string>
+    <string name="restart">restart</string>
+    <string name="pvp">pvp</string>
+    <string name="computer">computer</string>
+    <string name="mod">Computer</string>
+</resources>
